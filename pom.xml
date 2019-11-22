@@ -8,5 +8,14 @@
     <artifactId>Projectmini</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.processing/core -->
+        <dependency>
+            <groupId>org.processing</groupId>
+            <artifactId>core</artifactId>
+            <version>3.3.6</version>
+        </dependency>
+
+    </dependencies>
 
 </project>
